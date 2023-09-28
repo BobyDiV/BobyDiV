@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
 <div style="width: 100%; display: flex; justify-content: space-around">   
-    <div style="width: 30%" justify="space-between">
-        <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
+    <div style="width: 25%" justify="space-between">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </div>
 <!--     <div style="width: 40%">
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
