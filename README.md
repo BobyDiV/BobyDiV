@@ -7,6 +7,9 @@
     <div style="width: 40%">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </div>
+    <div style="width: 40%" align="right">
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </div>
     <div style="width: 40%">
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
     </div>
