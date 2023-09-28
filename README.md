@@ -1,9 +1,3 @@
-### Hi👋, I'm Vladimir Dil
-
-### Frontend javascript developer:
-
-JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
-
 [//]: # '<div align="center">'
 [//]: # '  <img src="https://github.com/compampa/compampa/blob/main/assets/matrix-1.gif" alt="header"/>'
 [//]: # "</div>"
@@ -16,6 +10,10 @@ JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
     </div>
 </div>
+
+### Hi👋, I'm Vladimir Dil
+
+### Frontend javascript developer:
 
   <h1>Currently you're on a developer's page</h1>
   <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
