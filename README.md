@@ -1,5 +1,6 @@
 ### Hi👋, I'm Vladimir Dil
 ### Frontend javascript developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
 <div style="width: 100%; display: flex; justify-content: center">
     <div style="width: 40%">
