@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
-<div style="width: 100%; display: flex; justifyContent: center">   
+<div style="width: 100%; display: flex; justify: center">   
     <div style="width: 40%" justify="space-between">
         <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="fox">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -13,7 +13,6 @@
 
 
 <h3 style="color: 'red'" >Currently you're on a developer's page</h3>
-<p><b>`${</b><i>BobyDiV</i><b>}`</b> knowledge stack is on the table below </p>
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
