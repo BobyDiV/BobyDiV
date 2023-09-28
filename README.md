@@ -11,7 +11,7 @@
 
 ### Frontend javascript developer:
 
-<h3 style={color:"blue"}>Currently you're on a developer's page</h3>
+<h3 style="color: blue">Currently you're on a developer's page</h3>
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
