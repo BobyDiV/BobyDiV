@@ -1,3 +1,6 @@
+### Hi👋, I'm Vladimir Dil
+### Frontend javascript developer
+
 <div style="width: 100%; display: flex; justify-content: center">
     <div style="width: 40%">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -7,11 +10,9 @@
     </div>
 </div>
 
-### Hi👋, I'm Vladimir Dil
 
-### Frontend javascript developer:
 
-<h3 style="color: blue">Currently you're on a developer's page</h3>
+<h3 style="color: 'red'" >Currently you're on a developer's page</h3>
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
