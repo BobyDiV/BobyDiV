@@ -31,6 +31,6 @@
 | ![HTML](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)                   | preprocessors & principles | ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass) ![postcss](https://img.shields.io/badge/postcss-20232A?style=for-the-badge&logo=postcss&logoColor=DD3A0A) ![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma) ![BootsTrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap) ![Material-UI](https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui) ![antD](https://img.shields.io/badge/antD-20232A?style=for-the-badge&logo=antdesign)                                                                                                                                                                                                                                                                                                                                                                            |
 <div align="center">
 
-![Bage]("https://visitor-badge.glitch.me/badge?page_id=BobyDiV")
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 </div>
