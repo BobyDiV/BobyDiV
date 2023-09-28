@@ -15,8 +15,8 @@
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="mailto:vladimir.dill@mail.ru.com"><<img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://t.me/yurnero_here"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="mailto:vladimir.dill@mail.ru.com"><img src="https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=mail.ru" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://t.me/BobyDiV"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 | Techonologies                                                                                                                                                                                       | Description                | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
