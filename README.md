@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi👋, I'm Vladimir Dil
 
+## Frontend javascript developer
 <!--
 **BobyDiV/BobyDiV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
