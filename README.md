@@ -1,7 +1,3 @@
-[//]: # '<div align="center">'
-[//]: # '  <img src="https://github.com/compampa/compampa/blob/main/assets/matrix-1.gif" alt="header"/>'
-[//]: # "</div>"
-
 <div style="width: 100%; display: flex; justify-content: center">
     <div style="width: 40%">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -16,13 +12,10 @@
 ### Frontend javascript developer:
 
   <h1>Currently you're on a developer's page</h1>
-  <p><b>${</b><i>this.profile</i><b>}</b> knowledge stack is on the table below </p>
-
-[//]: # '  <p>I may gladly represent you one of my pets: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a> </p>'
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="mailto:kim.u.907@gmail.com"><img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="mailto:vladimir.dill@mail.ru.com"><img src="https://cdn.icon-icons.com/icons2/294/PNG/96/Mail_31108.png" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/yurnero_here"><img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
