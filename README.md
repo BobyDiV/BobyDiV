@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
 <div style="width: 100%; display: flex; justify-content: center">
-<h1 style="color: #215BD8" >Hi👋, I'm Vladimir Dil</h1>
+    <h1 style="color: #215BD8" >Hi👋, I'm Vladimir Dil</h1>
+    <p align="center">Frontend javascript developer <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
     
     <div style="width: 40%">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
