@@ -1,22 +1,10 @@
 ![MasterHead](https://thumbs.gfycat.com/ImperturbableAcidicEel-size_restricted.gif)
-<h1>Hi👋, I'm Vladimir Dil</h1>
-<h2>Frontend javascript developer</h2>
+<h1 align="center">Hi👋, I'm Vladimir Dil</h1>
+<h2 align="center">Frontend javascript developer</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
-<div style="width: 100%; display: flex; justify-content: center">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
-    
-    <h1>Hi👋, I'm Vladimir Dil</h1>
-    <h2>Frontend javascript developer</h2>
-    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    
-    <p style="align-item:center">Frontend javascript developer>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </p>
- </div>
- 
- <div style="width: 100%; display: flex; justify-content: center">   
+<div style="width: 100%; display: flex; justify-content: center">   
     <div style="width: 40%">
         <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     </div>
