@@ -1,8 +1,8 @@
 ### Hi👋, I'm Vladimir Dil
 
-
 ### Frontend javascript developer:
 JavaScript | TypeScript | React | Redux | Redux Toolkit | HTML | CSS | UI-kit
+
 <!--
 **BobyDiV/BobyDiV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
