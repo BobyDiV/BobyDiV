@@ -10,7 +10,7 @@
 </div> -->
 
 <!-- <h3>Currently you're on a frontend developer's page</h3> -->
-<img align="center" src='./assets/gif/Welcom_2.gif' alt='gif'>
+<img align="center" src='./assets/gif/Welcom_5_42px.gif' alt='gif'>
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
