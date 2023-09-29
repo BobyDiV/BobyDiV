@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
 
 <p align="center">
-  <img src='./assets/gif/Welcom_Anton_50px_0.7sec.gif' alt='gif'>
+  <img src='./assets/gif/Welcom_Anton_50px_0.3sec_BottomRightToTop.gif' alt='gif'>
 </p>
 
 <h2 align="center">💬 Find me:</h2>
