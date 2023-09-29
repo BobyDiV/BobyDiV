@@ -12,6 +12,10 @@
 <!-- <h3>Currently you're on a frontend developer's page</h3> -->
 <p align="center">
   <img src='./assets/gif/Welcom_Anton_50px_0.7sec.gif' alt='gif'>
+  <br>
+  <img src='./assets/gif/Welcom_KnewaveRegular_50px_0.7sec.gif' alt='gif'>
+    <br>
+  <img src='./assets/gif/Welcom_KnewaveRegular_50px_0.5sec_TopDown.gif' alt='gif'>
 </p>
 
 <h2 align="center">💬 Find me:</h2>
