@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi👋, I'm Vladimir</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BobyDiV&label=Profile%20views&color=0e75b6&style=flat" alt="BobyDiV" /> </p>
@@ -10,7 +9,8 @@
     </div>
 </div> -->
 
-<h3>Currently you're on a frontend developer's page</h3>
+<!-- <h3>Currently you're on a frontend developer's page</h3> -->
+<img src='./assets/gif/Welcom_4.gif' alt='gif'>
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
