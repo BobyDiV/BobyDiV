@@ -11,7 +11,7 @@
 
 <!-- <h3>Currently you're on a frontend developer's page</h3> -->
 <h2 align="center">
-  <img align="center" src='./assets/gif/Welcom_Anton_50px_0.7sec.gif' alt='gif'>
+  <img src='./assets/gif/Welcom_Anton_50px_0.7sec.gif' alt='gif'>
 </h2>
 
 <h2 align="center">💬 Find me:</h2>
